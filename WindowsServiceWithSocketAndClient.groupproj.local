@@ -6,6 +6,6 @@
     <Transaction>1899.12.30 00:00:00.000.081,C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceWithSocketAndClient.groupproj=C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceClientWithSocket.groupproj</Transaction>
   </Transactions>
 	<Default.Personality>
-		<Projects ActiveProject="C:\Delphi Exams\Windows Service\A Windows service with socket communication with a VCL user interface\Client\Client.dproj"/>
+		<Projects ActiveProject="C:\Delphi Exams\Windows Service\A Windows service with socket communication with a VCL user interface\WindowsService\WindowsService.dproj"/>
 	</Default.Personality>
 </BorlandProject>
