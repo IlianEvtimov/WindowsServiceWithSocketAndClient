@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.400,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,C:\Delphi Exams\Windows Service\Service UI Communication Socket\UI Update\WindowsServiceWithSocket.dproj=C:\Delphi Exams\Windows Service\Service UI Communication Socket\UI Update\ServiceProj.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.229,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.183,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Delphi Exams\Windows Service\Service UI Communication Socket\UI Update\ServiceProj.dproj=C:\Delphi Exams\Windows Service\Service UI Communication Socket\UI Update\WindowsServiceWithSocket.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,C:\Delphi Exams\Windows Service\Windows\ServiceProj.dproj=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.905,C:\Delphi Exams\Windows Service\Windows\ServiceUnit.pas=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\ServiceUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\ServiceUnit.dfm=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\BackgroundThreadUnit.pas=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.905,C:\Delphi Exams\Windows Service\Windows\ServiceUnit.dfm=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\ServiceUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\ServiceUnit.pas=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\Delphi Exams\Windows Service\Windows\BackgroundThreadUnit.pas=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\BackgroundThreadUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024.07.22 14:04:49.073,C:\Delphi Exams\Windows Service\A Windows service with socket communication with a VCL user interface\WindowsService\WindowsService.dproj=C:\Delphi Exams\Windows Service\A Windows service with socket communication with a VCL user interface\WindowsService\ServiceProj.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

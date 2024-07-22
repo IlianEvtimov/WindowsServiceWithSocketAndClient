@@ -1,0 +1,11 @@
+object Service1: TService1
+  OldCreateOrder = False
+  DisplayName = 'Mail Update User UI'
+  AfterInstall = ServiceAfterInstall
+  OnContinue = ServiceContinue
+  OnPause = ServicePause
+  OnStart = ServiceStart
+  OnStop = ServiceStop
+  Height = 305
+  Width = 338
+end
