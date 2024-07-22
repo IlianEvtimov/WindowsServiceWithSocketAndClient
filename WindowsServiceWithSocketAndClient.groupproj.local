@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.081,C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceClientWithSocket.groupproj=C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceWithSocketAndClient.groupproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.617,C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceSocket.groupproj=C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceClientWithSocket.groupproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.258,C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceSocket.groupproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceSocket.groupproj=C:\Users\lilian.evtimov\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.617,C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceClientWithSocket.groupproj=C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceSocket.groupproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceWithSocketAndClient.groupproj=C:\Delphi Exams\Windows Service\Service UI Communication Socket\WindowsServiceClientWithSocket.groupproj</Transaction>
   </Transactions>
 	<Default.Personality>
-		<Projects ActiveProject="C:\Delphi Exams\Windows Service\A Windows service with socket communication with a VCL user interface\WindowsService\WindowsService.dproj"/>
+		<Projects ActiveProject="C:\Delphi Exams\Windows Service\A Windows service with socket communication with a VCL user interface\Client\Client.dproj"/>
 	</Default.Personality>
 </BorlandProject>
