@@ -49,8 +49,6 @@ var
   ServerSocket : TServerSocket;
 
 implementation
-uses
-  uMainTest;
 
 procedure ServiceController(CtrlCode: DWord); stdcall;
 begin
